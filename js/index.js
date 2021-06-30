@@ -8,7 +8,7 @@ function start(){
 			nlat: 30,
 			nlong: 30,
 			radius:5,
-			textures: ['earth.jpg'],
+			textures: ['https://lizgar.github.io/A3D/js/earth.jpg'],
 			 colors: [1, 1, 1, 1]
 			
 		}
@@ -30,7 +30,7 @@ PhiloGL('glCanvas',
 	},
 	
 	textures: {
-      src:['images/earth.jpg'],
+      src:['https://lizgar.github.io/A3D/js/earth.jpg'],
       parameters: [{
         name: 'TEXTURE_MAG_FILTER',
         value: 'LINEAR'
