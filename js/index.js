@@ -20,7 +20,7 @@ PhiloGL('glCanvas',
 	
 	 program: {
       from: 'uris',
-      path: '../../../shaders/'
+      path: '../../shaders/'
       
     },
 	camera: {
