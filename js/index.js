@@ -87,9 +87,9 @@ PhiloGL('glCanvas',
             b: 0.0
           },
           direction = {
-            x: -1.0,
-            y: -1.0,
-            z: -1.0,
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
           
             r: 1.0,
             g: 1.0,
