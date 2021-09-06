@@ -132,7 +132,7 @@ PhiloGL('glCanvas',
             		y: +direction.y,
             		z: +direction.z
           		}
-        	};*/
+        	};
 			//Fin Visualización 
 			
 			scene.render();
