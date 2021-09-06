@@ -80,10 +80,10 @@ PhiloGL('glCanvas',
 			camera = app.camera;
 		
 		//Iluminación
-		lighting = $id('luz'),
+	lighting = $id('luz'),
           ambient = {
             r: 1.0,
-            g: 0.0,
+            g: 1.0,
             b: 0.0
           },
           direction = {
@@ -91,7 +91,7 @@ PhiloGL('glCanvas',
             y: -1.0,
             z: -1.0,
           
-            r: 0.0,
+            r: 1.0,
             g: 1.0,
             b: 1.0
           };
