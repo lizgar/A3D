@@ -82,9 +82,9 @@ PhiloGL('glCanvas',
 		//Iluminación
 		lighting = $id('luz'),
           ambient = {
-            r: 0.5,
-            g: 0.4,
-            b: 0.4
+            r: 1.0,
+            g: 0.0,
+            b: 0.0
           },
           direction = {
             x: -1.0,
