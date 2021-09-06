@@ -116,7 +116,7 @@ PhiloGL('glCanvas',
 			//Visualización
 			var lights = scene.config.lights;
         	/*lights.enable = lighting.checked;*/
-        	lights.ambient = {
+        	/*lights.ambient = {
           		r: +ambient.r,
           		g: +ambient.g,
           		b: +ambient.b
@@ -132,7 +132,7 @@ PhiloGL('glCanvas',
             		y: +direction.y,
             		z: +direction.z
           		}
-        	};
+        	};*/
 			//Fin Visualización 
 			
 			scene.render();
