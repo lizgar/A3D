@@ -1,0 +1,11 @@
+Model Information:
+* title:	Valentinos Gltf
+* source:	https://sketchfab.com/3d-models/valentinos-gltf-1407b593b9e444fdb304085c423fb833
+* author:	karn_matharoo (https://sketchfab.com/karn_matharoo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Valentinos Gltf" (https://sketchfab.com/3d-models/valentinos-gltf-1407b593b9e444fdb304085c423fb833) by karn_matharoo (https://sketchfab.com/karn_matharoo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
